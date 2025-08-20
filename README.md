@@ -3,11 +3,11 @@ Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence](https://catalog.data.gov/dataset/provisional-covid-19-death-counts-rates-and-percent-of-total-deaths-by-jurisdiction-of-res)
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+[Although Covid was only a few years back, covid feels a long time ago and I want to see the effects of it and if there was anything about location or demographic that is different from the rest.]
 
 ## Progress
 - [ ] Picked dataset
@@ -17,11 +17,11 @@ Example: `async-final-project-teal-Anas`
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
+- [ ] Question 1: what is the total numbers of death from covid.[add up the sum of all the deaths from the earliest to latest date on teh data set]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: [Brief description of the task]
+- [ ] Question 2: when was the month with the most deaths?[sort ]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
