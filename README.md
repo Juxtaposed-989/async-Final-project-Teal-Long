@@ -25,7 +25,7 @@ Example: `async-final-project-teal-Anas`
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: [Brief description of the task]
+- [ ] Question 3:  [Brief description of the task]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
