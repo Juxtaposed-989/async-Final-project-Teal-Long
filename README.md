@@ -25,34 +25,34 @@ Example: `async-final-project-teal-Anas`
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3:  [Brief description of the task]
+- [ ] Question 3: Is there a noticable difference in covid deaths between between male and female smokers  [Find the ratio of deaths betwene male and female smokers and check if there is a difference highter than 15%]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
-- [ ] Question 4: [Brief description of the task]
+- [ ] Question 4: what is the difference between the of the age.[Add the sum of the age groups presentand find a ratio]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
-- [ ] Question 5: [Brief description of the task]
+- [ ] Question 5: Does a high population density affect covid deaths [find the average population density and find the average of covid deaths above the average and find the average of covid deaths below the averge and compare results.]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
-- [ ] Question 6: [Brief description of the task]
+- [ ] Question 6: How much does treatment help? [There is a column, holspital bed per thousand. find the average death above the middle number of hospital bed compared to teh average of death below that middle]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: [Brief description of the task]
+- [ ] Question 7: How much does vacination help?[find the average of deaths between people vacinated, people fully vacinated, and none if possible ]
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+  - Visualization: ![Q7 Visualization]()
 
-- [ ] Question 8: [Brief description of the task]
+- [ ] Question 8: what is the percenatage of gerneral covid deaths? [divide the total number of deaths by the population]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
 
-- [ ] Question 9: [Brief description of the task]
+- [ ] Question 9: how often do people get covid? [divide total cases by population ]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
-- [ ] Question 10: [Brief description of the task]
+- [ ] Question 10: What was the percentage of people who tested positive?[divide the total number positive cases by the total test ]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
