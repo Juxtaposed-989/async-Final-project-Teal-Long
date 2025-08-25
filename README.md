@@ -17,12 +17,12 @@ Example: `async-final-project-teal-Anas`
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: what is the total numbers of death from covid.[add up the sum of all the deaths from the earliest to latest date on teh data set]
-  - Answer: [Placeholder for answer]
+- [ ] Question 1: what is the total numbers of death from covid.[add up the sum of all the deaths from the earliest to latest date on teh data set. Or use the world location(found out after reseach)]
+  - Answer: [6972139.0]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: when was the month with the most deaths?[sort ]
-  - Answer: [Placeholder for answer]
+- [ ] Question 2: when was the month with the most deaths?[divide the number of months, by the totalnumber of deaths ]
+  - Answer: [an average of 153233.82417582418 deaths per month]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
 - [ ] Question 3: Is there a noticable difference in covid deaths between between male and female smokers  [Find the ratio of deaths betwene male and female smokers and check if there is a difference highter than 15%]
