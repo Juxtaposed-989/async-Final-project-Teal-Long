@@ -25,8 +25,8 @@ Example: `async-final-project-teal-Anas`
   - Answer: [an average of 153233.82417582418 deaths per month]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: what are the top 10 places with the highest total deaths? [find the unique max of 10 countries]
-  - Answer: [Placeholder for answer]
+- [ ] Question 3: what are the top 5 places with the highest total deaths? top 10? [find the unique max of 5 countries]
+  - Answer: [United States, Brazil, India, Russia, Mexico. Ill get 10 when it comes to it ]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
 - [ ] Question 4: what is the ratio of age groups in this data[find the mean of each total of each group and divide each group by the lowest group ]
@@ -34,14 +34,14 @@ Example: `async-final-project-teal-Anas`
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
 - [ ] Question 5: Does a high population affect covid deaths percentage [find the average population and find the average of covid deaths above the average and find the average of covid deaths below the averge and compare results.]
-  - Answer: [Lower population densities has more deaths (229486862197.03998(Lower Population) 142365089240.05(Upper Population))]
+  - Answer: [Lower population densities has more deaths (377807488942.8(Lower Population) 244983269868.45(Upper Population))]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
 - [ ] Question 6: How much does treatment help? [There is a column, holspital bed per thousand. find the average death above the middle number of hospital bed compared to teh average of death below that middle]
-  - Answer: 15.195% deaths with less treatment while 2.111% death will more treatment. 
+  - Answer: 21.267% deaths with less treatment while 2.111% death will more treatment. 
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: How much does vacination help?[find the average of deaths between people vacinated, people fully vacinated, and none if possible ]
+- [ ] Question 7: Which 5 countries have the highest vacinations[filter out the max of vactiona of each country]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization]()
 
@@ -53,6 +53,6 @@ Example: `async-final-project-teal-Anas`
   - Answer: [9.67%]
   - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
-- [ ] Question 10: What was the percentage of people who tested positive?[divide the total number positive cases by the total test ]
-  - Answer: [Placeholder for answer]
+- [ ] Question 10: What was the percentage of people who tested positive? does covid deaths have a correlation with positive rates[look at positive rates and look at the relatio of new cases and deaths]
+  - Answer: [10.0128%, there is little to no corolation]
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
