@@ -3,7 +3,7 @@ Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
 ## Dataset
-[Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence](https://catalog.data.gov/dataset/provisional-covid-19-death-counts-rates-and-percent-of-total-deaths-by-jurisdiction-of-res)
+[Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence] https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset?resource=download
 
 ## Why did I chose this dataset?
 
@@ -19,11 +19,11 @@ Example: `async-final-project-teal-Anas`
 ## Questions
 - [ ] Question 1: what is the total numbers of death from covid.[add up the sum of all the deaths from the earliest to latest date on teh data set. Or use the world location(found out after reseach)]
   - Answer: [6972139.0]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+  - Visualization: ![Q1 Visualization]!image.png https://vscode.dev/github/Juxtaposed-989/Long-s-Proj/blob/main/image.png
 
-- [ ] Question 2: when was the month with the most deaths?[divide the number of months, by the totalnumber of deaths ]
+- [ ] Question 2: what is the average deaths per month ?[divide the number of months, by the totalnumber of deaths ]
   - Answer: [an average of 153233.82417582418 deaths per month]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Visualization: ![Q2 Visualization](![alt text](image-1.png))
 
 - [ ] Question 3: what are the top 5 places with the highest total deaths? top 10? [find the unique max of 5 countries]
   - Answer: [United States, Brazil, India, Russia, Mexico. Ill get 10 when it comes to it ]
@@ -37,7 +37,7 @@ Example: `async-final-project-teal-Anas`
   - Answer: [Lower population densities has more deaths (377807488942.8(Lower Population) 244983269868.45(Upper Population))]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
-- [ ] Question 6: How much does treatment help? [There is a column, holspital bed per thousand. find the average death above the middle number of hospital bed compared to teh average of death below that middle]
+- [ ] Question 6: How much does treatment help? [There is a column, holspital bed per thousand. find the average death above the middle number of hospital bed compared to the average of death below that middle]
   - Answer: 21.267% deaths with less treatment while 2.111% death will more treatment. 
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
