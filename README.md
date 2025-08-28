@@ -19,7 +19,7 @@ Example: `async-final-project-teal-Anas`
 ## Questions
 - [ ] Question 1: what is the total numbers of death from covid.[add up the sum of all the deaths from the earliest to latest date on teh data set. Or use the world location(found out after reseach)]
   - Answer: [6972139.0]
-  - Visualization: ![Q1 Visualization]!image.png https://vscode.dev/github/Juxtaposed-989/Long-s-Proj/blob/main/image.png
+  - Visualization: ![Q1 Visualization]![alt text](image-3.png))
 
 - [ ] Question 2: what is the average deaths per month ?[divide the number of months, by the totalnumber of deaths ]
   - Answer: [an average of 153233.82417582418 deaths per month]
@@ -31,15 +31,17 @@ Example: `async-final-project-teal-Anas`
 
 - [ ] Question 4: what is the ratio of age groups in this data[find the mean of each total of each group and divide each group by the lowest group ]
   - Answer: [5.603240 : 1.542102 : 1]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Visualization: ![Q4 Visualization]![alt text](image-2.png)
 
 - [ ] Question 5: Does a high population affect covid deaths percentage [find the average population and find the average of covid deaths above the average and find the average of covid deaths below the averge and compare results.]
-  - Answer: [Lower population densities has more deaths (377807488942.8(Lower Population) 244983269868.45(Upper Population))]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+  - Answer: [Lower population densities has more deaths (377807488942.8(Lower Population) 244983269868.45(Upper Population)
+  P.S the number is more of a ratio than the actual number of mean deaths to reduce the affect of a higher sample size. What I'm looking for is does a higher population transmit covid more. Answer, no
+  )]
+  - Visualization: ![Q5 Visualization]![alt text](image-9.png) ![alt text](image-10.png)
 
 - [ ] Question 6: How much does treatment help? [There is a column, holspital bed per thousand. find the average death above the middle number of hospital bed compared to the average of death below that middle]
   - Answer: 21.267% deaths with less treatment while 2.111% death will more treatment. 
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+  - Visualization: ![Q6 Visualization]![alt text](image-6.png))
 
 - [ ] Question 7: Which 5 countries have the highest vacinations[filter out the max of vactiona of each country]
   - Answer: [Placeholder for answer]
